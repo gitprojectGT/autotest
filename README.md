@@ -14,3 +14,5 @@ Tuple Cookies|Money on Sell Cookies! button needs to be reviewed
 
 Tuple Cookies|Factories|Money on Buy Factories! button needs to be reviewed 	
 > to be continued...
+
+2023 update: the ** driver** with .exe inside is a slap in the face to the security team . Sorry my dear reader!!!
